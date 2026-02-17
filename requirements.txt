@@ -1,0 +1,7 @@
+streamlit>=1.30
+python-dotenv>=1.0.0
+google-genai>=1.0.0
+langchain
+PyPDF2
+chromadb
+faiss-cpu
